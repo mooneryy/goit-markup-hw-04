@@ -175,6 +175,12 @@ img {
 /* ----------- HERO SECTION ---------- */
 .hero-section {
     background: #2E2F42;
+background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+        url(/images/people-office.png);
+    /* width: 1440px;  */
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
     padding-top: 188px;
     padding-bottom: 188px;
      flex-shrink: 0; 
