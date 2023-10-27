@@ -614,3 +614,7 @@ border-radius: 50%;
 .social-link-list:focus {
     background-color: #31d0aa;
 }
+
+.footer-left{
+    margin-right: 120px;
+}
