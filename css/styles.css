@@ -568,8 +568,8 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
 
 .container.flex {
     display: flex;
-    align-items: baseline;
-    margin-right: 120px;
+     align-items: baseline;
+    /* margin-right: 120px;  */
 }
 
 
@@ -616,3 +616,4 @@ border-radius: 50%;
 .footer-left{
     margin-right: 120px;
 }
+
