@@ -145,7 +145,7 @@ img {
     color: #404bbf;
 }
 
-/* .navigation-link-item-name.current-page:active::after, */
+
 .navigation-link-item-name.current-page::after {
     content: "";
     position: absolute;
