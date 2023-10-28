@@ -195,11 +195,10 @@ img {
 .hero-section {
     background: #2E2F42;
 background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(/images/people-office.jpg);
+        url(../images/people-office.jpg);
         background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-        min-width: 1440px;
     padding-top: 188px;
     padding-bottom: 188px;
     max-width: 1440px;
@@ -287,9 +286,6 @@ background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7))
     margin-bottom: 8px;
 }
 
-.benefits-icon{
-    margin: 24px 100px;
-}
 
 
 .benefits-list-item-name {
@@ -324,7 +320,6 @@ background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7))
 /* ------------- TEAM SECTION ------------ */
 .team-section {
     background-color: #F4F4FD;
-    height: 732px;
     padding: 120px 0;
     flex-shrink: 0;
 }
